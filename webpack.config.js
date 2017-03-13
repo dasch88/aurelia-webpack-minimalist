@@ -29,8 +29,7 @@ module.exports = {
     new AureliaPlugin({
         root: path.resolve(),
         src: path.resolve('src'),
-        baseUrl: '/',
-        includeAll: 'src'
+        baseUrl: '/'
     }),                       // (5)
   ],
 };
