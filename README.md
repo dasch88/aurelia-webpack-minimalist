@@ -7,3 +7,6 @@ After spinning my wheels for quite some time trying to get Aurelia working with 
 * https://github.com/jods4/aurelia-webpack-build/wiki/Webpack-config
 
 I hope this helps someone else avoid the headache this caused me!
+
+# To Run
+Presuming you've run `npm update` then start the development server using `npm start`
